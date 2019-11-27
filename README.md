@@ -65,27 +65,3 @@ We will use the host's mobile number from this entry to gather all the informati
 
 11->  Also, in the emailv function we are calling *vmessage* function. This function is used to send sms to the visitor about the information regarding his/her last visit like in-time, out-time, host's name, host's mail id etc.
 
-# Demonstration of the use of the Application  
-  
-  
-1-> After running our scratch.py file, a window will open consisting of two forms for both check-in as well as check-out option. 
-![enter image description here](https://lh3.googleusercontent.com/fc4WPhF8ywUljA9lC2d1j2mUOm9LRUQzbmKaajKfRb6YWx-zW55II9O8HsWFnN0O1eFnYM2qxXYz)
-
-2-> First entering the visitor's name, visitor's email, and visitor's mobile number, Host's name, Host's email id and Host's mobile number.  
-![enter image description here](https://lh3.googleusercontent.com/bKr247WV2_ea23I0g6ZPB24NMM6YzpIV7FH-o_4rQDskcxNFyLrMk76BLe52nRt3qz_Ko-5Tv3hb)
-
-  
-3-> After filing details click on check-in button.  
-  
-4-> The host will recieve an email with the subject Visitor's detail.    
-  ![enter image description here](https://lh3.googleusercontent.com/Q7mpryn6jsC3wILrAq-KP9PoyygR1uA1Cz6dHDDBvSsA_JpTok_2kieBU-FLm2DY9P4oYFllXG9N)
-
-5-> Also the sms will be sent to the host's mobile no giving the details of the visitor.
-
-6-> Now the user has successfully checked-in.
-  
-10-> Entering visitor's mobile number during check-out. 
-![enter image description here](https://lh3.googleusercontent.com/in52hhJ_w1kVju_wI6q8tWD8BPwe3XDDKiISwv1U9s1fZX1Mmpm-MBsdIPdY0HcDtLgOZA-jnwqY)
-  
-10- And now finally, the visitor will recieve a message and an email as shown.  
-![enter image description here](https://lh3.googleusercontent.com/7vXSvbqKHRBI-ZTEyL4OaogcRSevWpoAm1dgDb8HGv5AUSyZFu0piMu2nliB0xvq1PesHnZ95jVU)
